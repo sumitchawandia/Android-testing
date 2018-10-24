@@ -1,2 +1,2 @@
 # Android-testing
-A begginer level projectt for testing android application
+A beginner level project for testing android application
